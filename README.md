@@ -18,3 +18,6 @@ To play the game, simply run the Python script snakeGame.py. The snake will star
 - Clone this repository or download the ZIP file.
 - Navigate to the project directory in your terminal.
 - Run `python3 snakeGame.py` to start the game.
+- Alternatively, you can directly run the pre-built executable file located in the `dist` folder. Simply navigate to the `dist` directory and execute the `snakeGame.exe` file.
+
+Note: If you encounter any issues with the pre-built executable, ensure that your system meets the necessary requirements and that any antivirus software is not blocking the execution of the file.
